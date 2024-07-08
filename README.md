@@ -174,4 +174,5 @@ body{
   }
   ```
 ## Output
-
+![image](https://github.com/kaviyabalaji/calc-sim/blob/main/Screenshot%202024-07-08%20112920.png)
+![image](https://github.com/kaviyabalaji/calc-sim/blob/main/Screenshot%202024-07-08%20112929.png)
